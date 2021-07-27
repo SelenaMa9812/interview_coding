@@ -20,17 +20,17 @@
 
 7 创建字典的方法
 
-  7.1 直接创建
+>>7.1 直接创建
   
-  7.2 工厂方法
+>>7.2 工厂方法
   
-  7.3 fromkeys()方法
+>>7.3 fromkeys()方法
   
 8 合并两个有序列表
 
 9 交叉链表求交点
 
-10 二分查找
+10 [二分查找](https://github.com/SelenaMa9812/interview_coding/blob/main/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
 
 11 快排
 
